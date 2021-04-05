@@ -1,14 +1,44 @@
 # Readme Generator
   ## Description
-  This application displays prompts to the user using the inquirer package to use their input to generate a professional readme.
+  Generates a professional readme file for a project after a series of user prompts.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
   ## Installation
-  Clone the repository off of Github and run "npm install" in the command line.
+  Clone this repository and run "npm install" in the terminal after opening the folder.
   ## Usage
-  Initiate the app with "node index.js" and answer the prompts.
+  Run the app using "node index.js" and answer prompts.
+  
+  ## Credits
+  No collaborators to credit.
   ## License
   Unlicensed
+  This is free and unencumbered software released into the public domain.
+    Anyone is free to copy, modify, publish, use, compile, sell, or
+    distribute this software, either in source code form or as a compiled
+    binary, for any purpose, commercial or non-commercial, and by any
+    means.
+    
+    In jurisdictions that recognize copyright laws, the author or authors
+    of this software dedicate any and all copyright interest in the
+    software to the public domain. We make this dedication for the benefit
+    of the public at large and to the detriment of our heirs and
+    successors. We intend this dedication to be an overt act of
+    relinquishment in perpetuity of all present and future rights to this
+    software under copyright law.
+    
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+    IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+    OTHER DEALINGS IN THE SOFTWARE.
+    
+    For more information, please refer to [Unlicense.org](https://unlicense.org)
+  ## Questions
+  Author: [Thomas Kubant](https://github.com/ThomasKubant)
+  Github: [ThomasKubant](https://github.com/ThomasKubant)
+  Email: [ThomasKubant@gmail.com](mailto:thomaskubant@gmail.com)

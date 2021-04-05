@@ -6,6 +6,21 @@ const questions = () => {
   return inquirer
     .prompt([
       {
+        type: 'input',
+        name: 'name',
+        message: "What is your name?"
+      },
+      {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email address?'
+      },
+      {
+        type: 'input',
+        name: 'userName',
+        message: 'What is your Github username?'
+      },
+      {
           type: 'input',
           name: 'title',
           message: 'What is the name of your project?'
@@ -50,7 +65,7 @@ const questions = () => {
         choices: ['Unlicensed', 'MIT', 'ISC']
       },
       {
-        type: 'screenshotCheck',
+        type: 'confirm',
         name: 'screenshotCheck',
         message: 'Would you like to include a screenshot of your application?'
       },
